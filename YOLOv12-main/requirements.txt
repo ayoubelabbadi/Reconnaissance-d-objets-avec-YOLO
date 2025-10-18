@@ -1,9 +1,0 @@
-torch
-torchvision
-matplotlib
-ipython
-opencv-python
-ultralytics
-lap
-Flask
-huggingface_hub
