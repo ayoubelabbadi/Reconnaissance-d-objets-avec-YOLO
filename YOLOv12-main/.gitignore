@@ -1,0 +1,11 @@
+yelov12_venv/
+.DS_Store
+.idea/
+Tennis-Analysis-System/models
+runs/detect
+*.py[cod]
+__pycache__/
+**/__pycache__/
+Integrate-YOLOv12-Flask/models/
+Integrate-YOLOv12-Flask/output/
+Integrate-YOLOv12-Flask/Resources
